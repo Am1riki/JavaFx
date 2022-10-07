@@ -1,3 +1,2 @@
 # JavaFx
-simple program with UI in Java
-Java, JavaFx
+simple program with UI in Java,JavaFx
